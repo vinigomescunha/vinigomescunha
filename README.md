@@ -1,16 +1,13 @@
-### Hi there 👋
+# Vinicius Gomes da Cunha
 
-<!--
-**vinigomescunha/vinigomescunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer Front End and Back End
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&style=social)](https://www.linkedin.com/in/vinigomescunha/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/github/followers/vinigomescunha?label=follow&style=social)](https://github.com/vinigomescunha)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vinigomescunha.1565316)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinigomescunha&langs_count=30)](https://github.com/vinigomescunha)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=vinigomescunha&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)](https://github.com/vinigomescunha)
